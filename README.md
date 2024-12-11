@@ -17,4 +17,5 @@ This project calculates the factorial of a number using a stack data structure. 
       java FactorialUsingStack
 
 # Expected Output
-![factorial stack ](factorial 2024-12-11 224341.png)
+![factorial 2024-12-11 224341](https://github.com/user-attachments/assets/a45f68ce-2ddb-499b-bc8e-eb6b7a2d88fc)
+
